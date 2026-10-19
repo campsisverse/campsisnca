@@ -1,3 +1,6 @@
+# campsisnca 1.7.3
+* Migrate package to campsisverse organisation #101
+
 # campsisnca 1.7.2
 * Update maintainer's email address
 
